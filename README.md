@@ -11,7 +11,7 @@
   - [Kanban](https://github.com/VladimirPlot/java-kanban) — учебный проект (трекер задач)  
 
 📫 Контакты:  
-- Email: yourmail@example.com  
-- Telegram: [@yourhandle](https://t.me/yourhandle)  
+- Email: niceday2727@gmail.com  
+- Telegram: @Vladimty
 - HH.ru: [Резюме](https://kazan.hh.ru/resume/5ca74ac6ff0f5ab10d0039ed1f416b38484757)
 - Хабр Карьера: [Профиль](https://career.habr.com/vladimty)
