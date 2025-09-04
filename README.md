@@ -1,16 +1,17 @@
-## Hi there 👋
+# Привет! 👋 Я Владимир  
 
-<!--
-**VladimirPlot/VladimirPlot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior Java Backend Developer  
 
-Here are some ideas to get you started:
+- ⚡ Стек: Java 17, Spring Boot, Spring Data JPA, Hibernate, REST API, PostgreSQL, Docker, Maven, JUnit, Git  
+- 🎓 Выпускник курса «Java-разработчик» (Яндекс Практикум, 2025)  
+- 📂 Мои проекты:  
+  - [Explore With Me](https://github.com/VladimirPlot/explore-with-me) — микросервисное приложение для событий и статистики  
+  - [ShareIt](https://github.com/VladimirPlot/java-shareit) — сервис аренды вещей  
+  - [Filmorate](https://github.com/VladimirPlot/java-filmorate) — сервис фильмов и пользователей  
+  - [Kanban](https://github.com/VladimirPlot/java-kanban) — учебный проект (трекер задач)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Контакты:  
+- Email: yourmail@example.com  
+- Telegram: [@yourhandle](https://t.me/yourhandle)  
+- HH.ru: [Резюме](https://kazan.hh.ru/resume/5ca74ac6ff0f5ab10d0039ed1f416b38484757)
+- Хабр Карьера: [Профиль](https://career.habr.com/vladimty)
